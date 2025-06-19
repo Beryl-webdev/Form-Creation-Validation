@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  color: #0066cc;
+}
+
+#api-data {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+li {
+  margin: 5px 0;
+}
